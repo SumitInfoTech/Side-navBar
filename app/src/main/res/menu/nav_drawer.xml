@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/dashboard"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Side Nav" />
+
+        <item
+            android:id="@+id/nav_my_profile"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Side Nav" />
+
+        <item
+            android:id="@+id/nav_my_booking"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Side Nav" />
+
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Side Nav" />
+        <item
+            android:id="@+id/nav_refer"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Side Nav" />
+
+        <item
+            android:id="@+id/nav_change_password"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Side Nav" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Side Nav"/>
+
+        <item
+            android:id="@+id/nav_FAQ"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Side Nav" />
+
+        <item
+            android:id="@+id/nav_Support"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Side Nav" />
+
+        <item
+            android:id="@+id/nav_Logout"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Side Nav" />
+
+
+
+
+    </group>
+
+</menu>

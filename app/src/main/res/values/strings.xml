@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Side Nav bar</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+</resources>
